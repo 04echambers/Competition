@@ -1,0 +1,2 @@
+# Competition
+CFG Competition
